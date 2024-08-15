@@ -4,5 +4,10 @@
 public class TreeOneZero {
     Node root;
 
+    //constructor
+    public TreeOneZero(Node root) {
+        this.root = root;
+    }
+
 
 }
