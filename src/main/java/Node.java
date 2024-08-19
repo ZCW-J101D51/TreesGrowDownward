@@ -6,6 +6,8 @@ public class Node {
     Node left;
     Node right;
 
+
+
     Node(Integer value) {
         this.value = value;
         right = null;
